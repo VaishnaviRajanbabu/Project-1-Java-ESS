@@ -1,0 +1,17 @@
+COMPILER:
+Programming Steps:
+                  Write a program in source code.
+                  Compile will analyze your program statements and check their correctness. If an error is found in a program, it throws an error message.
+                  If the program contains no error, then the compiler will convert the source code program into machine code.
+                  The compiler links all the code files into a single runnable program, which is known as the exe file.
+                  Finally, it runs the program and generates output.    
+Translation type:
+                 A compiler translates complete high-level programming code into machine code at once.
+INTERPRETER:
+Programming Steps:
+                  Write a program in source code.
+                  No linking of files happens, or no machine code will generate separately.
+                  The source code programming statements are executed line-by-line during their execution.
+                  If an error is found at any specific statement interpreter, it stops further execution until the error gets removed.
+Translation type:
+                 An interpreter translates one statement of programming code at a time into machine code.
